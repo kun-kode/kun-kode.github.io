@@ -9,9 +9,10 @@ section{
 		text-align: center;
 	}
 	body{
-		font-family: 'Grandstander', cursive;
+		font-family: 'Roboto', sans-serif;;
 		background-image: url(res/background.jpg);
 		background-size: cover;
+		color: black;
 	}
 	.head{
 		text-align: center;
