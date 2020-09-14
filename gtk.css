@@ -66,6 +66,11 @@ section{
 		display: inline;
 		text-align: center;
 	}
+	.drive{
+		width: 100%;
+		border-radius: 1%;
+		height: 500px;
+	}
 	@media only screen and (min-width: 720px){
 		.img{
 			width: 40%;
